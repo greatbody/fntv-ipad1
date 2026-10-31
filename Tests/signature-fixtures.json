@@ -1,0 +1,58 @@
+[
+  {
+    "url": "http://fixture.invalid/v/api/v1/mediadb/list",
+    "method": "GET",
+    "body": "",
+    "nonce": "123456",
+    "timestamp": "1700000000000",
+    "expected": "nonce=123456&timestamp=1700000000000&sign=e66026ea494b211557f15d2d1e2a3c46"
+  },
+  {
+    "url": "http://fixture.invalid/v/api/v1/search/list?q=%E4%B8%AD%E6%96%87%20A%2BB%25",
+    "method": "GET",
+    "body": "",
+    "nonce": "123456",
+    "timestamp": "1700000000000",
+    "expected": "nonce=123456&timestamp=1700000000000&sign=ed5a9c6785abba896489f0c32c6e18a6"
+  },
+  {
+    "url": "http://fixture.invalid/v/api/v1/search/list?z=last&a=first&a=second&ignore=null&undef=undefined&p=%2520&empty=",
+    "method": "GET",
+    "body": "",
+    "nonce": "123456",
+    "timestamp": "1700000000000",
+    "expected": "nonce=123456&timestamp=1700000000000&sign=c94d928565f6b28ea531860f890dfd63"
+  },
+  {
+    "url": "http://fixture.invalid/v/api/v1/item/a%2Fb?b=1&a=%26%3D",
+    "method": "GET",
+    "body": "",
+    "nonce": "123456",
+    "timestamp": "1700000000000",
+    "expected": "nonce=123456&timestamp=1700000000000&sign=7cf243752a1d2f11f9bb76befe102fa5"
+  },
+  {
+    "url": "http://fixture.invalid/v/api/v1/item/list",
+    "method": "POST",
+    "body": "{\"ancestor_guid\":\"fixture-guid\",\"page\":1,\"text\":\"中文/测试\"}",
+    "nonce": "123456",
+    "timestamp": "1700000000000",
+    "expected": "nonce=123456&timestamp=1700000000000&sign=f009d504bc02c06a54d6e2bfca5c19f7"
+  },
+  {
+    "url": "http://fixture.invalid/v/api/v1/play/info",
+    "method": "POST",
+    "body": "{}",
+    "nonce": "123456",
+    "timestamp": "1700000000000",
+    "expected": "nonce=123456&timestamp=1700000000000&sign=d2bd187ed203507d2ec110f55e46af40"
+  },
+  {
+    "url": "http://fixture.invalid/?q=%25",
+    "method": "GET",
+    "body": "",
+    "nonce": "123456",
+    "timestamp": "1700000000000",
+    "expected": "nonce=123456&timestamp=1700000000000&sign=41d962f1765a62ea2970f7098e671048"
+  }
+]

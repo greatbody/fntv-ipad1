@@ -1,0 +1,16 @@
+/build/
+/artifacts/
+/.private/
+/.env
+/.env.*
+.DS_Store
+__pycache__/
+*.pyc
+*.ipa
+*.apk
+*.sdk/
+*.mobileprovision
+*.p12
+*.key
+*.pem
+*.log

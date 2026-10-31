@@ -1,0 +1,164 @@
+[
+  {
+    "file" : "login-pad-dark.png",
+    "height" : 768,
+    "license" : "MIT",
+    "provenance" : "Original programmatic artwork for this independent client; no vendor artwork.",
+    "sha256" : "248186bf3ce5c1d2cff5b75faf2a5221c7ad40b87008fe72c4fac77cb386b5c5",
+    "source" : "Tools\/generate-assets.swift",
+    "width" : 1024
+  },
+  {
+    "file" : "login-pad-light.png",
+    "height" : 768,
+    "license" : "MIT",
+    "provenance" : "Original programmatic artwork for this independent client; no vendor artwork.",
+    "sha256" : "02b215710658d5f90748cb7fb80b14b8dbbe1b996f6c73d8205f0ef88d69718d",
+    "source" : "Tools\/generate-assets.swift",
+    "width" : 1024
+  },
+  {
+    "file" : "media-login-pad.png",
+    "height" : 768,
+    "license" : "MIT",
+    "provenance" : "Original programmatic artwork for this independent client; no vendor artwork.",
+    "sha256" : "248186bf3ce5c1d2cff5b75faf2a5221c7ad40b87008fe72c4fac77cb386b5c5",
+    "source" : "Tools\/generate-assets.swift",
+    "width" : 1024
+  },
+  {
+    "file" : "Icon-50.png",
+    "height" : 50,
+    "license" : "MIT",
+    "provenance" : "Original programmatic artwork for this independent client; no vendor artwork.",
+    "sha256" : "f5c16724902cb877e86d5039193d47bfce411424a0e5e6691fd5ff796e14a7c8",
+    "source" : "Tools\/generate-assets.swift",
+    "width" : 50
+  },
+  {
+    "file" : "Icon-72.png",
+    "height" : 72,
+    "license" : "MIT",
+    "provenance" : "Original programmatic artwork for this independent client; no vendor artwork.",
+    "sha256" : "3aae0426f34709d0699c5c88925b184ffa50f4b20a917d5d5d715a57f39aa407",
+    "source" : "Tools\/generate-assets.swift",
+    "width" : 72
+  },
+  {
+    "file" : "brand-mark.png",
+    "height" : 78,
+    "license" : "MIT",
+    "provenance" : "Original programmatic artwork for this independent client; no vendor artwork.",
+    "sha256" : "730f50d558e71fd0b99b4cfa06002b4ced6e2ded1f722314cb12d0f5f99162d9",
+    "source" : "Tools\/generate-assets.swift",
+    "width" : 78
+  },
+  {
+    "file" : "brand-wordmark-dark.png",
+    "height" : 42,
+    "license" : "MIT",
+    "provenance" : "Original programmatic artwork for this independent client; no vendor artwork.",
+    "sha256" : "d89c996b29e361b6e242b37b2731793a9e50e746e9eb846db026e081c0b716fc",
+    "source" : "Tools\/generate-assets.swift",
+    "width" : 186
+  },
+  {
+    "file" : "brand-wordmark-light.png",
+    "height" : 42,
+    "license" : "MIT",
+    "provenance" : "Original programmatic artwork for this independent client; no vendor artwork.",
+    "sha256" : "503ac7cac9e4af496c5c08fe5cd550a12b914e55452f6ad2561ad9109d7d9fbd",
+    "source" : "Tools\/generate-assets.swift",
+    "width" : 187
+  },
+  {
+    "file" : "poster-placeholder.png",
+    "height" : 105,
+    "license" : "MIT",
+    "provenance" : "Original programmatic artwork for this independent client; no vendor artwork.",
+    "sha256" : "2f5e60620a0cc075e09f40eb68020912c277c4757e104e9e4e1f53d13703f0fa",
+    "source" : "Tools\/generate-assets.swift",
+    "width" : 105
+  },
+  {
+    "file" : "media-error.png",
+    "height" : 105,
+    "license" : "MIT",
+    "provenance" : "Original programmatic artwork for this independent client; no vendor artwork.",
+    "sha256" : "5ca02b3e06ec715ff55f04bb4382ce381527d9b58153bb8b7ebb67cd83469a11",
+    "source" : "Tools\/generate-assets.swift",
+    "width" : 105
+  },
+  {
+    "file" : "empty-folder.png",
+    "height" : 105,
+    "license" : "MIT",
+    "provenance" : "Original programmatic artwork for this independent client; no vendor artwork.",
+    "sha256" : "d9113fba9f86fcc6429e46a98af5c6a590675ca5f3270df87f251c207062a5c6",
+    "source" : "Tools\/generate-assets.swift",
+    "width" : 105
+  },
+  {
+    "file" : "library-movie.png",
+    "height" : 40,
+    "license" : "MIT",
+    "provenance" : "Original programmatic artwork for this independent client; no vendor artwork.",
+    "sha256" : "6aaa65a1968f9e9f6e20e97fb57bd4da0dc3b52a30da792ff9e4e29d350fb4d0",
+    "source" : "Tools\/generate-assets.swift",
+    "width" : 40
+  },
+  {
+    "file" : "library-tv.png",
+    "height" : 40,
+    "license" : "MIT",
+    "provenance" : "Original programmatic artwork for this independent client; no vendor artwork.",
+    "sha256" : "49aae96c4cfc7625ee199019bdd1b33cc7db6a9953bf764df1f737255e937857",
+    "source" : "Tools\/generate-assets.swift",
+    "width" : 42
+  },
+  {
+    "file" : "library-mix.png",
+    "height" : 40,
+    "license" : "MIT",
+    "provenance" : "Original programmatic artwork for this independent client; no vendor artwork.",
+    "sha256" : "0dc3d764dd07e73a11990145fd449a12966b9daba651232ed4c24d9860378589",
+    "source" : "Tools\/generate-assets.swift",
+    "width" : 40
+  },
+  {
+    "file" : "library-other.png",
+    "height" : 40,
+    "license" : "MIT",
+    "provenance" : "Original programmatic artwork for this independent client; no vendor artwork.",
+    "sha256" : "b697286bc05570d47254a29fae09e0c2120db1a2ca360e3a2c3a0a436dbe0e75",
+    "source" : "Tools\/generate-assets.swift",
+    "width" : 40
+  },
+  {
+    "file" : "entry-all.png",
+    "height" : 75,
+    "license" : "MIT",
+    "provenance" : "Original programmatic artwork for this independent client; no vendor artwork.",
+    "sha256" : "84d5cf001d7421187cf6e020f48e91f6981abab97388edcaee298d1070df1298",
+    "source" : "Tools\/generate-assets.swift",
+    "width" : 164
+  },
+  {
+    "file" : "entry-film.png",
+    "height" : 75,
+    "license" : "MIT",
+    "provenance" : "Original programmatic artwork for this independent client; no vendor artwork.",
+    "sha256" : "68d96ea21ff33370340a8c85703397d1853e660220b47ae123e675ab9ce54081",
+    "source" : "Tools\/generate-assets.swift",
+    "width" : 164
+  },
+  {
+    "file" : "entry-tv.png",
+    "height" : 75,
+    "license" : "MIT",
+    "provenance" : "Original programmatic artwork for this independent client; no vendor artwork.",
+    "sha256" : "397687012c6626f421e2f4ce44422e8b397775380fd40ca40874d5b4e8893a4c",
+    "source" : "Tools\/generate-assets.swift",
+    "width" : 164
+  }
+]

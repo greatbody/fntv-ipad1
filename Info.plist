@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleIdentifier</key><string>ink.sunrui.fntv.ipad1</string>
+<key>CFBundleDisplayName</key><string>飞牛影视</string>
+<key>CFBundleName</key><string>FNTV</string>
+<key>CFBundleExecutable</key><string>FNTV</string>
+<key>CFBundlePackageType</key><string>APPL</string>
+<key>CFBundleVersion</key><string>13</string>
+<key>CFBundleDevelopmentRegion</key><string>zh-Hans</string>
+<key>CFBundleLocalizations</key><array><string>zh-Hans</string></array>
+<key>CFBundleIconFiles</key><array><string>Icon-72.png</string><string>Icon-50.png</string></array>
+<key>CFBundleShortVersionString</key><string>0.1</string>
+<key>MinimumOSVersion</key><string>5.1</string>
+<key>UIDeviceFamily</key><array><integer>2</integer></array>
+<key>UIRequiredDeviceCapabilities</key><array><string>armv7</string></array>
+<key>UISupportedInterfaceOrientations</key><array>
+<string>UIInterfaceOrientationPortrait</string><string>UIInterfaceOrientationPortraitUpsideDown</string>
+<string>UIInterfaceOrientationLandscapeLeft</string><string>UIInterfaceOrientationLandscapeRight</string>
+</array>
+<key>CFBundleURLTypes</key><array><dict><key>CFBundleURLName</key><string>ink.sunrui.fntv.ipad1</string>
+<key>CFBundleURLSchemes</key><array><string>fntvipad</string></array></dict></array>
+</dict></plist>
